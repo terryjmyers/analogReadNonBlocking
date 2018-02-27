@@ -1,0 +1,13 @@
+{
+  "name": "AnalogReadNonBlocking for ESP32 by Terry Myers",
+  "keywords": "ESP32 analogRead ",
+  "description": "A non-blocking analogRead library with optional polynomial linearisation",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/terryjmyers/AnalogReadNonBlocking"
+  },
+  "frameworks": "arduino",
+  "platforms": "esp32"
+}
+
