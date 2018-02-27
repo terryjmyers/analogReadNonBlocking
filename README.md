@@ -1,3 +1,3 @@
-# analogReadNonBlocking for ESP32
+Updated library:
 
-Non-blocking analogRead Function with optional polynomial calibration/linearisation
+https://github.com/terryjmyers/ESP32analogReadNonBlocking
